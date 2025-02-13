@@ -1,4 +1,7 @@
 # Spider-Man-Friend-or-Foe-PC-Fix
+
+![spidermanfof](https://github.com/user-attachments/assets/23f08670-317d-4d6a-9ac7-75e19fc405b6)
+
 This is the spiderman Friend or Foe d3d9 wrapper
 
 simply download the release and put the d3d9.dll and d3d9.ini into your game folder next to the game exe and your good to go 
