@@ -2,28 +2,32 @@
 
 ![spidermanfof](https://github.com/user-attachments/assets/23f08670-317d-4d6a-9ac7-75e19fc405b6)
 
-This is the spiderman Friend or Foe d3d9 wrapper
+# Instructions
+Go to releases and download the latest SpidermanFriendorFoeFix.zip, extract the d3d9.dll and d3d9.ini files into your game folder next to the Game.exe file and you are good to go! You can edit the settings you wish to use in the d3d9.ini file.
 
-simply download the release and put the d3d9.dll and d3d9.ini into your game folder next to the game exe and your good to go 
+# Resolution/Aspect Ratio
+The default for resolution is set to (1920 x 1080) in the d3d9.ini file. Put the resolution that you wish to use in both the Width and Height area.
 
-you can set your resolution width and height in the ini default is 1920 x 1080, in this game aspect ratio is calculated based on what resolution you choose.
+Resolution and aspect ratio edits are done together so you will only have to choose your resolution.
 
-FOV can be set within the ini its default is 0 (off) and there is three settings to choose from 1, 2 or 3.  
+# FPS
+The default for FPS is (60) you can change it as you wish or fully uncap it with (0) with the FPSLimit option in the d3d9.ini file.
 
-you can edit settings in d3d9.ini 
+# FOV
+The default for FOV is (0) which is the original games FOV. You can choose either 1,2 or 3 in the d3d9.ini file and each option will increase the FOV in game.
 
-Default for FPS cap is 60 you can change it as you like.
+# Vote to see the game return via GOG Dreamlist
+If you are interested in potentially seeing this game easily available to purchase and use today then go and vote on the games GOG Dreamlist to help make this become a reality, you can vote for the game here and write a message about the game if you wish – https://www.gog.com/dreamlist/game/spider-man-friend-or-foe-2007 
 
-If you have any issues please go to discord for help 
+# Issues/Problems
+If you have any issues, with the fixes then please go to discord for help linked below. https://discord.gg/eVJ7sQH7Cc
 
-https://discord.gg/eVJ7sQH7Cc
+Credits
 
-brought to you by Fix Enhancers 
+Credit to Elisha Riedlinger for the base wrapper and ThirteenAG.
 
-https://fixenhancers.wixsite.com/fix-enhancers
+Brought to you by Fix Enhancers - https://fixenhancers.wixsite.com/fix-enhancers
 
-Team: 
+Team:
 
-Chip, JokerAlex21.
-
-credit to Elisha Riedlinger for the base wrapper and 13 AG.
+Chip and JokerAlex21.
