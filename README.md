@@ -1,3 +1,11 @@
+<div align="center">
+
+# 🎮 Game Specific Patches  
+### Created & Maintained by **[Chip-Biscuit](https://chip-biscuit.github.io/)**
+Reverse Engineering • Programming • Patching • Game Improvements  
+
+</div>
+
 # Spider-Man-Friend-or-Foe-PC-Fix
 
 ![spidermanfof](https://github.com/user-attachments/assets/23f08670-317d-4d6a-9ac7-75e19fc405b6)
