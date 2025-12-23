@@ -26,7 +26,7 @@ Go to releases and download the latest SpidermanFriendorFoeFix.zip, extract the 
 Watch the official fix guide video here on how to install the game and use the fix
 
 <a href="https://m.youtube.com/watch?v=s9T13Vr-oi8">
-  <img src="https://github.com/user-attachments/assets/49e76762-c0d6-42c0-a87d-1283669fef0b" alt="The Hobbit 2003" width="480" height="360">
+  <img src="" alt="The Hobbit 2003" width="480" height="360">
 </a><br>
 
 
