@@ -21,6 +21,15 @@ Reverse Engineering • Programming • Patching • Game Improvements • DLL C
 # Instructions
 Go to releases and download the latest SpidermanFriendorFoeFix.zip, extract the d3d9.dll and d3d9.ini files into your game folder next to the Game.exe file and you are good to go! You can edit the settings you wish to use in the d3d9.ini file.
 
+# Official video guide
+
+Watch the official fix guide video here on how to install the game and use the fix
+
+<a href="">
+  <img src="https://github.com/user-attachments/assets/49e76762-c0d6-42c0-a87d-1283669fef0b" alt="The Hobbit 2003" width="480" height="360">
+</a><br>
+
+
 # Resolution/Aspect Ratio
 The default for resolution is set to (1920 x 1080) in the d3d9.ini file. Put the resolution that you wish to use in both the Width and Height area.
 
