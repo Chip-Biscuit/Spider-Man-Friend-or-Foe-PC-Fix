@@ -26,9 +26,9 @@ Go to releases and download the latest SpidermanFriendorFoeFix.zip, extract the 
 Watch the official fix guide video here on how to install the game and use the fix
 
 <a href="https://m.youtube.com/watch?v=s9T13Vr-oi8">
-  <img src="" alt="The Hobbit 2003" width="480" height="360">
-</a><br>
+  <img width="1280" height="720" alt="Spider-Man_Friend_or_Foe_Fix" src="https://github.com/user-attachments/assets/1e6e75b4-e95d-4dc5-ab84-8a8fb71dfb0d" />
 
+</a><br>
 
 # Resolution/Aspect Ratio
 The default for resolution is set to (1920 x 1080) in the d3d9.ini file. Put the resolution that you wish to use in both the Width and Height area.
